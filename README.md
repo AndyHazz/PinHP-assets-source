@@ -1,5 +1,5 @@
-# PinHP-assets-source
-Where images have been resized for PinHP, this repo contains the original images, plus the scripts used to generate the resized assets
+# PinHP assets source
+Where images have been resized for PinHP, this repo contains the original images, plus the scripts used to generate the resized assets. The logo and marquee images are from various sources (mainly EmuMovies and ProgettoSnaps), with filenames matched to AdvanceMame 0.106.
 
 The logo-resize.bat is for Windows and requires ImageMagick to be installed (https://imagemagick.org/)
 
